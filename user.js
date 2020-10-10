@@ -7,6 +7,7 @@ let cards = [
 
     ["Your Name", "./img/username.png", "Your Bio", "https://github.com/letskhabar"],
     ["Your Name", "./img/username.png", "Your Bio", "https://github.com/MasterBrian99"],
+    ["Your Name", "./img/username.png", "Your Bio", "https://github.com/MasterBrian99"],
 
 
 
