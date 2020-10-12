@@ -4,7 +4,7 @@ let cards = [
     //  ["Your Name", "Image URL(./img/username.png)", "Bio", "Your Github Link"],
     //  Bio should no longer than 50 characters, avoid using quotes(") to guarantee the format remains the same.
 
-
+    ["Meghal Bisht", "./img/MeghalBisht.png", "Developer", "https://github.com/MeghalBisht"],
     ["Your Name", "./img/username.png", "Your Bio", "https://github.com/letskhabar"],
     ["Your Name", "./img/username.png", "Your Bio", "https://github.com/MasterBrian99"],
     ["Your Name", "./img/username.png", "Your Bio", "https://github.com/MasterBrian99"],
