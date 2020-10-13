@@ -9,7 +9,8 @@ let cards = [
     ["Your Name", "./img/username.png", "Your Bio", "https://github.com/MasterBrian99"],
     ["Your Name", "./img/username.png", "Your Bio", "https://github.com/MasterBrian99"],
     ["Mohammad Reza", "./img/mohammadreza.png", "I build responsive website and E-commerce site ", "https://github.com/rzadev"],
-	["Irvin", "./img/irvine09.png", "I support enterprise applications.", "https://github.com/irvine09"]
+	["Irvin", "./img/irvine09.png", "I support enterprise applications.", "https://github.com/irvine09"],
+  ["Tahirih", "./img/ctahirih.jpg", "Hello, I'm frontend web developer from Perú", "https://github.com/ctahirih"],
 
 
 
