@@ -58,8 +58,7 @@ and submit a pull request.
 #### Step 8: wait for your pull request to be reviewed and merged.
 
 
-## Original repository Owner- [letskhabar dev ](https://github.com/letskhabar)
-Contribute to his repository - [HacktoberFest-2020 ](https://github.com/letskhabar/HacktoberFest-2020)
+---
 
 
 <a href="https://github.com/MasterBrian99/Hacktoberfest-2k20/graphs/contributors">
