@@ -60,6 +60,8 @@ and submit a pull request.
 
 ---
 
+## Contributors 😍
+Thanks goes to these wonderful people.
 
 <a href="https://github.com/MasterBrian99/Hacktoberfest-2k20/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=MasterBrian99/Hacktoberfest-2k20" />
