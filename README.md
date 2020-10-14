@@ -1,9 +1,10 @@
 # HacktoberFest 2020
 ## Support open source and pick a limited edition T-shirt or plant a tree. 
 
+![GitHub Hacktoberfest combined status (suggestion label override)](https://img.shields.io/github/hacktoberfest/2020/MasterBrian99/Hacktoberfest-2k20?suggestion_label=hacktoberfest)
+
 ![Hacktober2020](https://i.imgur.com/hnpukK4.png)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cf2335d3-a437-4484-90c9-e4e929128acc/deploy-status)](https://app.netlify.com/sites/hacktoberfest2k20/deploys)
 ### Event details
 Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge. 
 - Hacktoberfest is a celebration open to everyone in our global community.
