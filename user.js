@@ -52,6 +52,12 @@ let cards = [
     "Hello, I am an associate software engineer from the United States",
     "https://github.com/courtneyoverby",
   ],
+  [
+    "Rishav",
+    "./img/Courtney.png",
+    "Hello, I am Software Developer from India",
+    "https://github.com/rishavjaiss",
+  ],
 ];
 
 // +--------------------------------------------------------------------------------+
