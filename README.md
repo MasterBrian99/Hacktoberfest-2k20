@@ -3,7 +3,6 @@
 
 ![Hacktober2020](https://i.imgur.com/hnpukK4.png)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cf2335d3-a437-4484-90c9-e4e929128acc/deploy-status)](https://app.netlify.com/sites/hacktoberfest2k20/deploys)
 ### Event details
 Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge. 
 - Hacktoberfest is a celebration open to everyone in our global community.
@@ -58,14 +57,7 @@ and submit a pull request.
 #### Step 8: wait for your pull request to be reviewed and merged.
 
 
----
+## Original repository Owner- [letskhabar dev ](https://github.com/letskhabar)
+Contribute to his repository - [HacktoberFest-2020 ](https://github.com/letskhabar/HacktoberFest-2020)
 
-## Contributors 😍
-Thanks goes to these wonderful people.
-
-<a href="https://github.com/MasterBrian99/Hacktoberfest-2k20/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=MasterBrian99/Hacktoberfest-2k20" />
-</a>
-
-Made with [contributors-img](https://contributors-img.web.app).
 
