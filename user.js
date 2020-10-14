@@ -60,7 +60,7 @@ let cards = [
   ],
   [
     "Femakin",
-    "./img/femakin.png",
+    "./img/femakin.jpg",
     "Hello, I am Software Developer from Nigeria",
     "https://github.com/femakin",
   ]
