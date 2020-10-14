@@ -57,7 +57,7 @@ let cards = [
     "./img/Courtney.png",
     "Hello, I am Software Developer from India",
     "https://github.com/rishavjaiss",
-  ],
+  ]
 ];
 
 // +--------------------------------------------------------------------------------+
