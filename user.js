@@ -63,6 +63,12 @@ let cards = [
     "./img/femakin.jpg",
     "Hello, I am Software Developer from Nigeria",
     "https://github.com/femakin",
+  ],
+  [
+    "Victor",
+    "./img/soyvikman.jpg",
+    "Hello, I am Software Developer from Peru",
+    "https://github.com/soyvikman",
   ]
 ];
 
