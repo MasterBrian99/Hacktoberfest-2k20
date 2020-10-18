@@ -17,10 +17,10 @@ let cards = [
     "https://github.com/letskhabar",
   ],
   [
-    "Your Name",
-    "./img/username.png",
-    "Your Bio",
-    "https://github.com/MasterBrian99",
+    "Steven Burrows",
+    "img/slack.jpg",
+    "Junior DEveloper",
+    "https://github.com/stevenjburrows",
   ],
   [
     "Your Name",
