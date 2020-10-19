@@ -69,7 +69,13 @@ let cards = [
     "./img/soyvikman.jpg",
     "Hello, I am Software Developer from Peru",
     "https://github.com/soyvikman",
-  ]
+  ],
+  [
+    "Ousainu",
+    "./img/username.png",
+    "Hello, I'm a Software Engineer from United States",
+    "https://github.com/ousainu",
+  ],
 ];
 
 // +--------------------------------------------------------------------------------+
