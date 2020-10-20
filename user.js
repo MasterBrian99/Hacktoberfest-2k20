@@ -82,6 +82,12 @@ let cards = [
     "Web developer from Edinburgh", 
     "https://github.com/bruceyboy86"
   ],
+   [
+    "Divij Chhabra", 
+    "./img/username.jpg", 
+    "Front End Developer from India", 
+    "https://github.com/Divijcode"
+  ],
 ];
 
 // +--------------------------------------------------------------------------------+
